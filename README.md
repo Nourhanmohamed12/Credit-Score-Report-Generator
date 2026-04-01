@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=60A5FA&center=true&vCenter=true&lines=Credit+Score+Analyzer;
-    Financial+Insights+System;
-    Python+%2B+SQLite+%2B+Streamlit+📊" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=60A5FA&center=true&vCenter=true&lines=Credit+Score+Analyzer;Financial+Insights+SystemPython+%2B+SQLite+%2B+Streamlit+📊" />
   <br><br>
   <img src="https://img.shields.io/badge/💳-Credit%20Scoring-1E40AF?style=for-the-badge&logo=bank&logoColor=white" />
   <img src="https://img.shields.io/badge/📊-Data%20Analysis-3B82F6?style=for-the-badge&logo=python&logoColor=white" />
