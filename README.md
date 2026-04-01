@@ -57,6 +57,7 @@ Final score is scaled between **300 → 850**.
 
 ## 🖥️ **System Architecture**
 
+```mermaid
 graph TB
     A[👤 User Input] --> B[🖥️ Streamlit UI]
     B --> C[⚡ Python Logic]
@@ -121,30 +122,32 @@ Credit-Score-Analyzer/
 
 ## 🚀 **Quick Start**
 
+```bash
 # 1. Clone the repository
-git clone https://github.com/Nourhanmohamed12/Credit-Score-Report-Generator.git
+git clone https://github.com/Nourhanmohamed12/credit-score-Report-Generator.git
 cd credit-score-analyzer
 ```
 
 ### 🔧 Setup Databases
 
-
+```bash
 python addData.py
-
+```
 
 ### ▶️ Run CLI Version
 
-
+```bash
 python main.py
-
+```
 
 ### 🌐 Run Streamlit App
 
-
+```bash
 pip install streamlit
 streamlit run gui.py
+```
 
-
+---
 
 ## 📊 **Example Output**
 
